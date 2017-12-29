@@ -1,0 +1,105 @@
+.navbar{
+    background-color: #0a145e;
+}
+        .navbar{
+            background-color: #0a145e;
+        }
+        .container-fluid .satu{
+            background-color: #0a145e;
+        }
+        .navbar a{
+            color: white;
+        }
+        .navbar .dtu{
+            text-align: center;
+        }
+        .gambar1{
+            width: 60px;
+            height: 60px;
+        }
+        .carousel-inner{
+            width: 100%;
+        }
+        .carousel-inner img{
+            height: 300px;
+        }
+        #about{
+            height: 500px;
+        }
+         h1 {
+      margin: 0 0 35px;
+      text-transform: uppercase;
+      font-family: "MS Reference Sans Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+    #features{
+        margin-top: 100px;
+    }
+    p {
+      margin: 0 0 25px;
+      font-size: 18px;
+      line-height: 1.5;
+
+    }
+    #tulisan{
+        margin-top: 100px;
+        width: 70%;
+    }
+    .harus img{
+        width: 100px;
+        height: 100px;
+    }
+    .fitur{
+        border-left: 3px solid #0a145e;
+    }
+    @media (min-width: 768px){
+        .hasim .container-fluid{
+            margin-top: 200px;
+        }
+    }
+    @media (min-width: 480px){
+        .hasim .container-fluid{
+            margin-top: 300px;
+        }
+    }
+    @media (min-width: 1024px){
+        .hasim .container-fluid{
+            margin-top: 100px;
+        }
+    }
+    #content .title {
+        font-size: 14px;
+        font-weight: bold;
+        border-bottom: 0px solid #000;
+        margin-bottom: 0px;
+    }
+ 
+    #content .item {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+ 
+        #content .item p {
+            margin: 3px 0px;
+            padding: 3px 0px;
+        }
+        .container .footer .row .ya {
+            background-color: white;
+            font-style: arial;
+        }
+    footer{
+        background-color: #0a145e;
+    }
+    .raksasa{
+        margin-top: 400px;
+    }
+    .gofar{
+        margin-top: 400px;
+    }
+    .kenapes{
+        margin-top:10px;
+    }
+    .kocak{
+        margin-top:200px;
+    }
